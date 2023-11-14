@@ -14,3 +14,4 @@ print(dataset.describe)
 # print(f"Number of columns: {num_columns}")
 
 print("hello world")
+print("salom dunyo")
