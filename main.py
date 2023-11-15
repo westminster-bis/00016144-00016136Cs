@@ -44,7 +44,7 @@ def calculate_min_max(school_Data):
     min = school_Data[column].min()
     column = input('Enter column:')
     max = school_Data[column].max()
-
+    #just a comment
     return min, max
 
 
