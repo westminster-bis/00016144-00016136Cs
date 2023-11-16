@@ -13,7 +13,6 @@ print(dataset.describe)
 # print(f"Number of rows: {num_rows}")
 # print(f"Number of columns: {num_columns}")
 
-<<<<<<<<< Temporary merge branch 1
 
 # List of items
 
@@ -33,7 +32,7 @@ school_Data.dropna(inplace=True)
 print(school_Data)
 
 
-# Calculate Avarage
+# Calculate Average
 
 def calculate_avarage(school_Data):
     column = input('Enter column:')
@@ -51,5 +50,5 @@ def calculate_min_max(school_Data):
 
 print(f" Mode: {calculate_avarage(school_Data)}")
 print(f" Mean:{calculate_min_max(school_Data)}")
-=========
->>>>>>>>> Temporary merge branch 2
+
+#continue...
