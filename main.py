@@ -9,9 +9,7 @@ dataset = pd.read_csv('scores 2.csv')
 
 print(dataset.describe)
 
-# num_rows, num_columns = dataset.shape
-# print(f"Number of rows: {num_rows}")
-# print(f"Number of columns: {num_columns}")
+
 
 # List of items
 
